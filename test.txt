@@ -4,10 +4,3 @@ This is a change in the old branch.  We will commit it.
 This is another change in the old branch.  We will commit this one too.
 
 And this is one final commit, that we will add.  After this, I am going to copy in the ref log.  I guess that means there will be one more commit, and one commit not listed in the reflog below.
-
-0000000000000000000000000000000000000000 a46a9f501679e0a5fec56062c8763880c072acfb Cachia <jcachia@gci-its-162206.us.ad.gannett.com> 1491583249 -0400	commit (initial): test
-a46a9f501679e0a5fec56062c8763880c072acfb b16c62a1b87b0bad5c8714292a5243bd41b054a1 Jason Cachia <jcachia@gannett.com> 1509540007 -0400	commit: First Commit
-b16c62a1b87b0bad5c8714292a5243bd41b054a1 b16c62a1b87b0bad5c8714292a5243bd41b054a1 Jason Cachia <jcachia@gannett.com> 1509540440 -0400	checkout: moving from master to OldBranch
-b16c62a1b87b0bad5c8714292a5243bd41b054a1 820791bb4c234d5a89c7386a505a6bf969494167 Jason Cachia <jcachia@gannett.com> 1509540668 -0400	commit: One OldBranch commit
-820791bb4c234d5a89c7386a505a6bf969494167 f5aa6534170450df15b9e8c159c0153559b15d5a Jason Cachia <jcachia@gannett.com> 1509540706 -0400	commit: Two OldBranch commit
-f5aa6534170450df15b9e8c159c0153559b15d5a 977b8ac43120bc3fbc819b4dee9fc86ffcdec74e Jason Cachia <jcachia@gannett.com> 1509540767 -0400	commit: Three OldBranch commit
