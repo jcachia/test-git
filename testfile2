@@ -1,3 +1,9 @@
 Here's another test file.
 
 I merged OldBranch with master.  I'd like to see if the commit history stays with the merged branch.
+
+Then, after i push this branch, OldBranch2, I will make a new branch locally and push it.  Then I will review the commits.
+
+- I'd like to see all the commits in master from OldBranch; there were about 6.
+
+- I'd like to see the commits in NewBranch2, moved from OldBranch2.
