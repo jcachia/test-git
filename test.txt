@@ -1,1 +1,6 @@
  hi
+This is a change in the old branch.  We will commit it.
+
+This is another change in the old branch.  We will commit this one too.
+
+And this is one final commit, that we will add.  After this, I am going to copy in the ref log.  I guess that means there will be one more commit, and one commit not listed in the reflog below.
