@@ -14,3 +14,4 @@ This is just a change to test signed commits.
  another
  another
 one more
+this time with the old settings
