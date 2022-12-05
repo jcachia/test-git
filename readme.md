@@ -22,3 +22,6 @@ Oddly, this didnt trigger the other action I created when i pushed this branch. 
 
 This is only a change in a feature branch to be merged to master, then hopefully it merges automatically to master-aux.  I wonder if there will be a merge conflict?
 
+This is a change only on master-aux
+
+
