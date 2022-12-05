@@ -17,3 +17,7 @@ one more
 this time with the old settings
 
 Today we're testing GH actions.  This is a branch that I'll merge into both master and a non-master branch to see if the action I created is triggered. 
+
+Oddly, this didnt trigger the other action I created when i pushed this branch.  Trying to push a commit to see if it triggers on that.... 
+
+
