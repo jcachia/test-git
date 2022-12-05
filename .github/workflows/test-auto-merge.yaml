@@ -1,9 +1,11 @@
 name: Test Github Auto Merge
 run-name: ${{ github.actor }} is testing an action based on a merged pr
 on:
-  pull_request:
+  pull_request_target:
     types:
       - closed
+    branches:
+      - master
 
 jobs:
   if_merged:
