@@ -22,3 +22,7 @@ Oddly, this didnt trigger the other action I created when i pushed this branch. 
 
 This is only a change in a feature branch to be merged to master, then hopefully it merges automatically to master-aux.  I wonder if there will be a merge conflict?
 
+OK, yeah, that made a merge conflict.  It halted the merge in the action, so that's good.  This change should go in with no conflicts.  
+
+
+
