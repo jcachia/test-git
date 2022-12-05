@@ -1,5 +1,5 @@
 name: Test Github Auto Merge
-run-name: ${{ github.actor }} is testing an action based on a merged pr
+run-name: ${{ github.actor }} is automerging to master-aux based on a merged pr to master
 on:
   pull_request_target:
     types:
