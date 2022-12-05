@@ -15,3 +15,5 @@ This is just a change to test signed commits.
  another
 one more
 this time with the old settings
+
+Today we're testing GH actions.  This is a branch that I'll merge into both master and a non-master branch to see if the action I created is triggered. 
